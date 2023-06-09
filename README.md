@@ -12,4 +12,5 @@ Secondary KPI:         Total Casulties with respect to vehicle type.
                            Distribution of Road casulties by Road surface.
                            Relation between casulties by Area / Location & by Day / Night
                            
-                           ![Dashboardimage](https://github.com/IkechukwuUna/Excel-Dashboard_Road_Accident_UK/blob/main/DashboardImage1.PNG)
+                    
+                           ![myDash](https://github.com/IkechukwuUna/Excel-Dashboard_Road_Accident_UK/blob/main/DashboardImage1.PNG)
